@@ -27,9 +27,14 @@ Ensure you have the following installed on your system:
 
 ## Features
 - Homepage.
--  
+-  ![Screenshot (99)](https://github.com/user-attachments/assets/fb1aca32-3e91-4795-a723-4b02e102d42f)
+
 - Patient registration and record management
+- ![Screenshot (100)](https://github.com/user-attachments/assets/5574a52a-042e-4e1d-bb8f-4415e53ee892)
+
 - Doctor and staff management
+- ![Screenshot (102)](https://github.com/user-attachments/assets/da6ef141-9f65-493d-a044-1496cc069f80)
+
 - Appointment scheduling
 - Billing and invoicing
 - Medical reports and prescriptions
